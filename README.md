@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @NisAr-PakhtoOn
-- 👀 I’m interested in ... Everything
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m @NisAr-PakhtoOn, a data scientist, data analyst, machine learning and deep learning expert, web and mobile developer. 
+- 👀 I’m interested in ... Data science, machine learning, deep learning.
 - 📫 How to reach me ... WhatsApp +923480998906.  Khan.nisar72@yahoo.com
 
 <!---
